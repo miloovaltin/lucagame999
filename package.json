@@ -1,0 +1,16 @@
+{
+"name": "lucagame999",
+"theme": "luca game999",
+"version": "2.3.2",
+"description": "luca game999 ทางเข้าหลักเว็บแทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ ให้เครดิตฟรี",
+"keywords": [
+"luca game999",
+"luca game999 เครดิตฟรี",
+"luca game999 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/lucagame999",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
